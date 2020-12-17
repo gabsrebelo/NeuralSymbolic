@@ -1,2 +1,5 @@
 # NeuralSymbolic
-Artificial Intelligence discipline project - UFAM - 2020
+
+This project is an extension of the work of a team from last year that can be found [here](https://github.com/xrhd/NeuralSymbolic-Demo).
+
+
